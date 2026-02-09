@@ -1,0 +1,7 @@
+flask
+google-api-python-client
+youtube-transcript-api
+anthropic
+requests
+python-dotenv
+pandas
