@@ -1,0 +1,1 @@
+# bitcoin-hype-analyser-thing
