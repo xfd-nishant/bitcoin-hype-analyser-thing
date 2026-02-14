@@ -1,5 +1,4 @@
-from services.youtube import get_recent_videos
+import services.app_logic as t
 
-videos = get_recent_videos(" ", 5)
-print(videos)
-
+print("Loaded from:", t.__file__)
+print("Available symbols:", dir(t))

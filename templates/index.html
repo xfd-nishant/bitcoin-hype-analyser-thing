@@ -1,13 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Influencer Credibility Score</title>
+    <title>Influencer Credibility Test</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 50px auto; }
+        input, button { padding: 10px; margin: 5px 0; width: 100%; }
+        pre { background: #ffffc0; padding: 15px; overflow-x: auto; }
+    </style>
 </head>
 <body>
-    <h1>Crypto Influencer Score</h1>
-    <form method="POST" action="/analyze">
-        <input type="text" name="channel_id" placeholder="Paste Channel ID" required>
-        <button type="submit">Analyze</button>
-    </form>
+    <h1>Test Influencer Analysis</h1>
+    <label>Channel ID:</label>
+    <input type="text" id="channel_id" placeholder="Enter YouTube channel ID">
+    <label>Influencer Name (optional):</label>
+    <input type="text" id="influencer_name" placeholder="Optional">
+    <button onclick="analyze()">Analyze</button>
+
+    <h2>Result:</h2>
+    <pre id="result">Waiting for input...</pre>
+
+    <script>
+        async function analyze() {
+            const channel_id = document.getElementById('channel_id').value;
+            const influencer_name = document.getElementById('influencer_name').value;
+            const responseEl = document.getElementById('result');
+            responseEl.textContent = "Analyzing...";
+
+            try {
+                const response = await fetch('/analyze', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ channel_id, influencer_name })
+                });
+                const data = await response.json();
+                responseEl.textContent = JSON.stringify(data, null, 2);
+            } catch (e) {
+                responseEl.textContent = "Error: " + e;
+            }
+        }
+    </script>
 </body>
 </html>
