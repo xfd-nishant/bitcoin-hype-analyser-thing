@@ -27,10 +27,10 @@
             responseEl.textContent = "Analyzing...";
 
             try {
-                const response = await fetch('/analyze', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ channel_id, influencer_name })
+                const response = await fetch("/analyze", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ channel_id: channel_id, influencer_name: influencer_name })
                 });
                 const data = await response.json();
                 responseEl.textContent = JSON.stringify(data, null, 2);

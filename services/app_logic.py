@@ -30,9 +30,9 @@ def analyze_channel(channel_id: str, influencer_name: str = None, max_videos: in
 
     # MVP video URLs
     video_urls = [
-        "https://www.youtube.com/watch?v=abc123",
-        "https://www.youtube.com/watch?v=def456",
-        "https://www.youtube.com/watch?v=ghi789"
+        "https://www.youtube.com/watch?v=qLHHDRhAleA&pp=0gcJCYcKAYcqIYzv",
+        "https://www.youtube.com/watch?v=at_wc1oVmNo",
+        "https://www.youtube.com/watch?v=S6txVFt0Dog"
     ]
     videos = get_video_list(video_urls)
     print(f"  {len(videos)} videos selected for analysis\n")

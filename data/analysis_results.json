@@ -1,0 +1,185 @@
+{
+  "UC-lHJZR3Gqxm24_Vd_AJ5Yw": {
+    "influencer_name": "Unknown",
+    "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+    "analysis_summary": {
+      "videos_analyzed": 0,
+      "total_words": 0
+    },
+    "metrics": {
+      "emotional_intensity": 0.0,
+      "certainty_index": 50.0,
+      "technical_depth": 0.0,
+      "prediction_density": 0.0,
+      "word_count": 0
+    },
+    "credibility_score": 52.5,
+    "calibration_gap": 0.0,
+    "historical_accuracy": 50.0,
+    "flags": {
+      "high_hype_low_accuracy": false,
+      "overconfident": false,
+      "technical_but_inaccurate": false,
+      "hedges_appropriately": false,
+      "extreme_prediction_volume": false,
+      "calm_and_accurate": false
+    },
+    "baseline_comparison": {
+      "hype_multiplier": 0.0,
+      "certainty_deviation": -8.0,
+      "technical_deviation": -72.0,
+      "accuracy_percentile": 0.0,
+      "calibration_percentile": 25.0,
+      "baseline_stats": {
+        "median_emotional_intensity": 45.0,
+        "median_certainty_index": 58.0,
+        "median_technical_depth": 72.0,
+        "median_historical_accuracy": 58.0,
+        "influencer_count": 3
+      }
+    },
+    "predictions": [],
+    "evidence": {
+      "intensity_quotes": [],
+      "certainty_quotes": [],
+      "technical_quotes": []
+    },
+    "ai_explanation": "## Credibility Analysis: This Influencer\n\nThis influencer receives a credibility score of 52.5/100, indicating below-average reliability in the crypto influence space. The score reflects a concerning pattern of minimal substantive content combined with poor predictive performance.\n\nThe primary strength lies in emotional restraint, with zero hype language compared to typical crypto influencers who often employ sensationalized messaging. This measured tone suggests potential for more rational discourse.\n\nHowever, significant weaknesses dominate the profile. The historical accuracy sits at the bottom percentile among influencers, indicating consistently poor predictions when they are made. More concerning is the complete absence of technical analysis or detailed reasoning, suggesting surface-level engagement with complex crypto topics. The lack of prediction density, while potentially indicating caution, may also reflect limited market insight.\n\nRegarding calibration, this influencer demonstrates reasonable self-awareness with a zero calibration gap. Their moderate certainty levels appropriately match their poor track record, avoiding the overconfidence trap that ensnares many crypto personalities. While their certainty runs 8 points below baseline medians, this conservative stance aligns with their bottom-tier accuracy performance.\n\nThe overall profile suggests an influencer who lacks both expertise and predictive capability, though they avoid the dangerous overconfidence that characterizes many unreliable crypto voices.",
+    "video_metadata": [],
+    "analyzed_at": "2026-02-14T07:48:20.094640"
+  },
+  "UCcrEA_xd9Ldf1C8DIJYdyyA": {
+    "influencer_name": "Virtual Bacon",
+    "channel_id": "UCcrEA_xd9Ldf1C8DIJYdyyA",
+    "analysis_summary": {
+      "videos_analyzed": 3,
+      "total_words": 23966
+    },
+    "metrics": {
+      "emotional_intensity": 3.6,
+      "certainty_index": 42.9,
+      "technical_depth": 3.7,
+      "prediction_density": 2.4,
+      "word_count": 24638
+    },
+    "credibility_score": 52.7,
+    "calibration_gap": -7.1,
+    "historical_accuracy": 50.0,
+    "flags": {
+      "high_hype_low_accuracy": false,
+      "overconfident": false,
+      "technical_but_inaccurate": false,
+      "hedges_appropriately": false,
+      "extreme_prediction_volume": false,
+      "calm_and_accurate": false
+    },
+    "baseline_comparison": {
+      "hype_multiplier": 0.08,
+      "certainty_deviation": -15.1,
+      "technical_deviation": -68.3,
+      "accuracy_percentile": 0.0,
+      "calibration_percentile": 25.0,
+      "baseline_stats": {
+        "median_emotional_intensity": 45.0,
+        "median_certainty_index": 58.0,
+        "median_technical_depth": 72.0,
+        "median_historical_accuracy": 58.0,
+        "influencer_count": 3
+      }
+    },
+    "predictions": [
+      "You should go watch  them for more context but in summary I expect Bitcoin to hit $200,000 by late 2025 and Ethereum to  hit $15,000 in the same period",
+      "With its current fully diluted valuation of $30 billion in order for it to do a 10x return  that's going to be $300 billion in market cap",
+      "You see Super was one of the earliest and most  OG projects in the gaming sector, launching in February of 2021 before the gaming wave actually  gained popularity later that year"
+    ],
+    "evidence": {
+      "intensity_quotes": [
+        "Like it or not meme coin is a major category in crypto just like AI, DeFi, gaming,  layer ones, layer twos, metaverse, LSD and whatever else and for the sake of diversification it's  really worth having meme coins in your portfolio as they are very separated from the other categories  when you look at things that we already covered when you have the layer ones while they kind of  overlap with layer twos and a lot of the layer twos overlap with DeFi because things like Arbitram  and ZK Sync are DeFi focused then you have things like LSDs which already kind of overlap with  Ethereum because while they're based on Ethereum staking so they live or die with Ethereum you have  the cross chain stuff which are also very DeFi driven because they're involved a lot of cross  chain token bridging then you have things like gaming infrastructure and web3 games which are  pretty much just one sector alone and you see some of these infrastructure are also meant to be  layer twos which again overlap with layer two so you see a lot of these sectors in crypto  actually overlap and in order for you to build a very diversified portfolio that tends to hold  its value over the long term you need to have somewhat decoupled categories of alcoins and that's  where I think meme coins can really shine because they are their meme coins they don't have any  long term utility that tie into any specific technology but meme coins are one of the longest  running crypto narratives and by design they are hard to die because there are no expectations  as long as there's an exchange there's some trading volume and most importantly there's a large  community then the meme coin will live on there are really no risks of meme coin being a security  because they are not controlled by any single entity this also means they really cannot suffer a  hack it's just a token and they don't have any insider stumping because most meme coins have  majority of the supply circulating this also gives them you know prevents them from a lot of  pitfalls that other technology startups and technology solutions can fall victim to when they are  trying to improve their protocols so all in all I think meme coins are worthy of a spot in your  portfolio albeit even if you want only a small percentage for me the breakdown looks like this I  have 1% in dogecoin because dogecoin is the original meme coin everyone already knows and loves  and it has the dark horse scenario in case Elon Musk and X ends up integrating it that could really  pump the price the other meme coin I have is shiba inu's ship token this is the only meme coin  project that has a real team and is building products for it so they have built a lot of stuff in  the bear market including their own layer 2 called shibarium and they have built multiple tokens  that you can farm with liquidity pools they have their own decentralized exchange called shiba swap  they have built their own NFT collection they have been built their own manifest they have built  their own game so all in all they have a real team behind it and I think this is one of the only  meme coins that has products that's still being built and last but not least the one meme coin that I  think has the most potential is pay pay so pay pay is the most explosive meme coin in recent times  whenever the market rallies it always catches the first wave we have already seen this in the late 2023  rally when bitcoin made a huge run up in October of 2023 pay pay was one of the first coins to follow  that wave and has since been consolidating so since pay pay didn't launch as early as the other  meme coins actually launched in the bear market in 2023 this means it has just gone through its first  initial hype wave and almost all tokens are now circulating as you can see on the supply here  so if you dig into the supply charts on ether scan you'll see that the team of pay pay holds only  about 3",
+        "7% of the total supply so all the supply is pretty much  circulating there's no insiders to dump so going forward the real question is can pay pay live on  as a long term meme coin like dogecoin or shiba I think there's a decent chance for this because  think about this when people think about the doge they think about the dogecoin this is the true  effect that the dogecoin has managed to penetrate into the meme itself now how recognizable is the  pay pay meme when compared to the doge meme I would argue that they are just as popular so is it  possible that eventually when people look at pay pay the frog and they will think of this pay pay token  meme coin is that possible I think it's a low probability but certainly possible so if this close  relationship of this pay pay token becoming the official meme coin behind the meme itself that  will be a huge out there community that is worth to be discovered and brought in and that is truly  the I would say upside potential that I see in pay pay it's not a high chance for this to happen  but the potential return is very high and that's why I think pay pay is still worth investing in  as just a dark horse pick in the meme coin scenario I really don't like training new meme coins  for the short term hype as there are way too many scams to go to zero but I will continue to hold  these three memes doge ship and pay pay in my portfolio because I think memes will continue to capture  a significant chunk of the crypto markets mine share okay so now you know exactly how I'm making my  ultimate crypto portfolio for 2024 these are all 29 altcoins that I have in my portfolio with their  exact breakdowns as you can see building a quality portfolio is all about finding quality  investment and keeping them diversified never putting all eggs in one basket I also did a little bit  of analytics which is very interesting so looking at the portfolio breakdown the largest percentages  of individual altcoins that I have aside from Bitcoin and Ethereum the largest percentage of 4% in  chain link and diesel which means these two altcoins are actually my most bullish altcoin picks if  you need specific picks I know this is a very common question that I get right below that I have  3% in robit and 3% in super so these two are also very high condition place for me personally now  in terms of pop portfolio sectors this is also very interesting so the largest sector in my portfolio  is actually DeFi coming in at 10% so I am actually the most bullish on DeFi believe it or not  according to my portfolio that I plan for myself right after that we have 7% in AI sector and  6% in gaming infrastructure 5% in crypto games so if you combine the gaming info and games together  that gives 11% so if you include gaming overall that's 11% in gaming so I guess I'm also super  bullish in gaming and then after that you know lear 2's 4% layer 1 4% cross chain social  all at 4% and then the lower percentages meme coin and gamble fire this is my portfolio breakdown  by sector also very interesting even for my own 70 check I really hope this portfolio has been  helpful for you guys as I strongly believe early 2024 will be the final window of opportunity  to accumulate quality projects if you happen on defense and don't know which projects to get  into hopefully this guide can serve as a starting point to do your own research if all catalysts  events for bitcoin go as planned bitcoin and all coins will really start to accelerate their growth  in the second half of 2024 and lead to the actual bull run in 2025 again even though I have given  you guys my exact portfolio breakdown please please do your own research and fact check my research  and also consider which sectors you find to be bullish the most on and you don't have to have  the exact same portfolio as I do because I do shift these around every year as you can tell with  the series video that's it for today's video if you found this video helpful share it with a  friend and subscribe to my channel so you don't miss future videos I am actually working on a hidden  gems portfolio video for 2024 which will highlight only the low cap high potential projects that may  not have made it into today's portfolio list lastly follow me on x at virtual bacon 0x this is where  I drop day-to-day crypto alpha when I'm doing in-depth research for my videos usually I drop alpha  their first before they make it onto the videos and live streams and last but not least join our  discord on discord",
+        ", and Baron Trump  are all listed here as well, and they have always given constant updates whenever World  Liberty makes an announcement"
+      ],
+      "certainty_quotes": [
+        "The 2024 crypto bull market will be the last cycle where retail investors can make  generational wealth before the big institutions come in and on the industry",
+        "2024 will be a great year for crypto investors because  three huge catalyst events are coming to the market",
+        "This will finally bring US institutional investors to Bitcoin",
+        "This means the money printer will be turning back on and all risk on assets including crypto  will be stimulated again like in 2021",
+        "This is why in today's video we will not only include some popular alcoins that most people  already know but also a list of undervalued alcoin gems that I think could gather significant  mind share and take over the market in this upcoming cycle"
+      ],
+      "technical_quotes": [
+        "It has the highest  TVL and fees among all Ethereum rollups because it's heavily driven by DeFi transactions",
+        "This is because they take a very similar approach to  Arbitram by first attracting the DeFi users and the TVL and the money to deploy on the chain",
+        "Now the introduction of the EIP4844 upgrade in the  beginning of 2024 should also lower the transaction fees of all Layer 2's by another 10-100x",
+        "Which means there is still an opportunity  to get this token's air drop by using the ZK Sync mainnet today and performing DeFi transactions",
+        "So with Ethereum and other layer one typical blockchains,  you have the smart contracts and the consensus and all the data and execution all bundled into one,  which means you're tied into one set of design choices and one smart contract language"
+      ]
+    },
+    "ai_explanation": "**Credibility Analysis: Virtual Bacon**\n\nVirtual Bacon's credibility score of 52.7/100 indicates below-average reliability compared to other crypto influencers. This score reflects a mixed performance with notable calibration issues that investors should consider when evaluating their content.\n\nThe influencer's primary strength lies in their measured communication style, displaying only 8% of the typical emotional intensity found among crypto influencers. This restraint suggests they avoid excessive hype-driven language that often characterizes less credible voices in the space. Their technical depth, while modest at 3.7/100, aligns appropriately with their general audience focus rather than attempting to project false expertise.\n\nHowever, significant weaknesses emerge in their predictive performance. Virtual Bacon's historical accuracy sits at the bottom percentile (0th) among baseline influencers, meaning virtually all peers demonstrate better forecasting ability. Despite this poor track record, they maintain moderate confidence levels (42.9/100) in their predictions, creating a calibration gap of -7.1 points. While this gap indicates they're somewhat appropriately uncertain given their track record, their continued confident predictions about \"generational wealth\" opportunities and specific market timing suggests insufficient adjustment for their demonstrated forecasting limitations.\n\nInvestors should view Virtual Bacon's predictions with considerable skepticism, particularly given their bottom-tier accuracy despite confident delivery.",
+    "video_metadata": [
+      {
+        "title": "Video qLHHDR",
+        "video_id": "qLHHDRhAleA&pp=0gcJCYcKAYcqIYzv",
+        "word_count": 15856
+      },
+      {
+        "title": "Video at_wc1",
+        "video_id": "at_wc1oVmNo",
+        "word_count": 4215
+      },
+      {
+        "title": "Video S6txVF",
+        "video_id": "S6txVFt0Dog",
+        "word_count": 3895
+      }
+    ],
+    "analyzed_at": "2026-02-14T08:03:11.629074"
+  },
+  "UCJWCJCWOxBYSi5DhCieLOLQ": {
+    "influencer_name": "Aantonop",
+    "channel_id": "UCJWCJCWOxBYSi5DhCieLOLQ",
+    "analysis_summary": {
+      "videos_analyzed": 0,
+      "total_words": 0
+    },
+    "metrics": {
+      "emotional_intensity": 0.0,
+      "certainty_index": 50.0,
+      "technical_depth": 0.0,
+      "prediction_density": 0.0,
+      "word_count": 0
+    },
+    "credibility_score": 52.5,
+    "calibration_gap": 0.0,
+    "historical_accuracy": 50.0,
+    "flags": {
+      "high_hype_low_accuracy": false,
+      "overconfident": false,
+      "technical_but_inaccurate": false,
+      "hedges_appropriately": false,
+      "extreme_prediction_volume": false,
+      "calm_and_accurate": false
+    },
+    "baseline_comparison": {
+      "hype_multiplier": 0.0,
+      "certainty_deviation": -8.0,
+      "technical_deviation": -72.0,
+      "accuracy_percentile": 0.0,
+      "calibration_percentile": 25.0,
+      "baseline_stats": {
+        "median_emotional_intensity": 45.0,
+        "median_certainty_index": 58.0,
+        "median_technical_depth": 72.0,
+        "median_historical_accuracy": 58.0,
+        "influencer_count": 3
+      }
+    },
+    "predictions": [],
+    "evidence": {
+      "intensity_quotes": [],
+      "certainty_quotes": [],
+      "technical_quotes": []
+    },
+    "ai_explanation": "**Credibility Analysis: Aantonop**\n\nThe credibility score of 52.5/100 places Aantonop slightly above average, indicating moderate reliability as an information source. This score reflects a balanced profile without extreme characteristics in either direction.\n\n**Key Strengths:**\nAantonop demonstrates excellent calibration with zero gap between confidence levels and actual accuracy, suggesting they express appropriate uncertainty rather than making overconfident claims. Their emotional intensity registers at zero, indicating a measured, non-hype-driven communication style that contrasts sharply with typical crypto influencer behavior. The certainty index sits 8 points below the baseline median, showing commendable restraint in making definitive statements.\n\n**Key Weaknesses:**\nHistorical accuracy ranks at the 0th percentile among influencers, meaning virtually all peers have demonstrated better prediction track records. The technical depth score of zero suggests content may lack substantive analytical insights, potentially limiting educational value for audiences seeking deeper understanding.\n\n**Calibration Assessment:**\nAantonop's perfect calibration represents their strongest asset\u2014they don't oversell their expertise or make claims beyond their demonstrated capabilities. While their accuracy lags significantly behind peers, their appropriately modest confidence levels prevent misleading followers, making them a relatively trustworthy source despite limited predictive success.",
+    "video_metadata": [],
+    "analyzed_at": "2026-02-14T07:50:50.824897"
+  }
+}

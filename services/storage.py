@@ -9,7 +9,7 @@ from datetime import datetime
 from typing import Dict, Optional
 
 
-STORAGE_DIR = "/home/claude/data"
+STORAGE_DIR = os.path.join(os.getcwd(), "data")
 RESULTS_FILE = os.path.join(STORAGE_DIR, "analysis_results.json")
 ACCURACY_FILE = os.path.join(STORAGE_DIR, "historical_accuracy.json")
 
